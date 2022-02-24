@@ -1,0 +1,527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Names of the orthodox divines presented by the knights and burgesses of severall counties, cities, and burroughs, as fit persons to be consulted with by the Parliament touching the reformation of church government and liturgie, Aprill 25, 1642.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52543</idno>
+            <idno type="STC">Wing N143</idno>
+            <idno type="STC">ESTC R35061</idno>
+            <idno type="EEBO-CITATION">14973283</idno>
+            <idno type="OCLC">ocm 14973283</idno>
+            <idno type="VID">103003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1575:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Names of the orthodox divines presented by the knights and burgesses of severall counties, cities, and burroughs, as fit persons to be consulted with by the Parliament touching the reformation of church government and liturgie, Aprill 25, 1642.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London for G.W.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103003:1"/>
+            <head>THE NAMES OF THE ORTHODOX DIVINES, Preſented by the Knights and Burgeſſes of ſeverall Counties, Cities and Burroughs, as fit perſons to be conſulted with by the <hi>Parliament,</hi> touching the Refor<g ref="char:EOLhyphen"/>mation of Church Government and Liturgie, <date>
+                  <hi>Aprill</hi> 25, 1642.</date>
+            </head>
+            <p>
+               <list>
+                  <label>Preſented by the Burgeſes, for the Vniverſity of Oxford.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>JAmes</hi> Archbiſhop of <hi>Armagh.</hi>
+                        </item>
+                        <item>Doctor <hi>Stiles,</hi> Parſon of S. <hi>Georges</hi> neer the bridge.</item>
+                     </list>
+                  </item>
+                  <label>By the Bur<g ref="char:EOLhyphen"/>geſſes for the Vniverſity of Cambridge.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Brownrigge,</hi> master of <hi>Katherine Hall</hi>
+                        </item>
+                        <item>Doctor <hi>Ward,</hi> maſter of <hi>Sidney Colledge.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented by the Knights &amp; Burgeſſes for the County of Berkſhire.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Twiſt.</hi>
+                        </item>
+                        <item>
+                           <hi>William Reyner.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Buckingh.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Henry Wilkinſon.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Valentine.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Bedford.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Thomas Dillingham.</hi>
+                        </item>
+                        <item>
+                           <hi>Oliver Boles.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Cambridge.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Thomas Wincope.</hi>
+                        </item>
+                        <item>Master <hi>Thomas Goodwyn.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Cumberlan.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Hoyle.</hi>
+                        </item>
+                        <item>Master <hi>Bridges</hi> of <hi>Yarmouth.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Cornwall.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Gamon.</hi>
+                        </item>
+                        <item>Master <hi>John Hicks</hi> of <hi>Lawrick.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Durham.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Jenneſton.</hi>
+                        </item>
+                        <item>Master <hi>William Morton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Eboracenſ.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Levir</hi> of <hi>Rippon.</hi>
+                        </item>
+                        <item>Master <hi>Michlethwaite</hi> of <hi>Cerry Burton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Eſſex.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Stephen Marſhall</hi> of <hi>Finchfield.</hi>
+                        </item>
+                        <item>
+                           <hi>Obediah Sedgeſwick</hi> of <hi>Cogſhall.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Glouceſter.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>William Mewe</hi> of <hi>Eſtington,</hi> B. D.</item>
+                        <item>Master <hi>John Duninge</hi> of <hi>Coldaſton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Hereford.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>John Greene</hi> of <hi>Pencombe.</hi>
+                        </item>
+                        <item>Master <hi>Stanley Gowen</hi> of <hi>Bracton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Hertford.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Smith</hi> of <hi>Barkway.</hi>
+                        </item>
+                        <item>Doctor <hi>Burgeſſe</hi> of <hi>Waterford.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Huntington</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Thomas Bathurſt.</hi>
+                        </item>
+                        <item>Master <hi>Philip Nye.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Kent.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Francis Tailor.</hi>
+                        </item>
+                        <item>Master <hi>Wilſon</hi> of <hi>Otham.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for London.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Edward Calamy,</hi> of the Pariſh of <hi>Al<g ref="char:EOLhyphen"/>dermanbury.</hi>
+                        </item>
+                        <item>Master <hi>George Walker</hi> of S. <hi>Johns</hi> Pariſh.</item>
+                        <item>Master <hi>Caroll</hi> of <hi>Lincolnes Inne.</hi>
+                        </item>
+                        <item>Master <hi>Lazarus Seaman</hi> of <hi>Alhollows Bred ſt.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Lincolne.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Anthony Tuckney</hi> of <hi>Boſton.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Coleman</hi> of <hi>Blyton.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Munmoth.</label>
+                  <item>
+                     <list>
+                        <item>Doct. <hi>Harris</hi> Warden of <hi>Wincheſter Colledg.</hi>
+                        </item>
+                        <item>Master <hi>Morley.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Middleſex.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Downing</hi> of <hi>Hackney.</hi>
+                        </item>
+                        <item>Master <hi>Jeremiah Burroughes.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Northampt.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Reignolds</hi> Parſon of <hi>Branſton.</hi>
+                        </item>
+                        <item>Master <hi>Hill</hi> Parſon of <hi>Titchmarſh.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Northumb.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>John Jackſon</hi> of <hi>Grayes Inne.</hi>
+                        </item>
+                        <item>Master <hi>William Carter</hi> of <hi>London.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Norfolk.</label>
+                  <item>
+                     <list>
+                        <item>Master <hi>Thomas Thoroughgood.</hi>
+                        </item>
+                        <item>Maſter <hi>John Arrowſmith.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Nottingham.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Sanderſon</hi> of <hi>Boothby.</hi>
+                        </item>
+                        <item>Maſter <hi>John Foxcroft</hi> of <hi>Gotham.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Oxford.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Robert Harris</hi> B. D. parſon of <hi>Hanwell</hi>
+                        </item>
+                        <item>Maſter <hi>Robert Croſſe,</hi> B. D. fellow of <hi>Lincolne Colledge.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Rutland.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Samuel Gibſon.</hi>
+                        </item>
+                        <item>Maſter <hi>Jeremie Whitaker.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Somerſet.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Samuel Crook</hi> of <hi>Wranton,</hi> B. D.</item>
+                        <item>Maſter <hi>John Connant</hi> of <hi>Livington,</hi> B. D.</item>
+                     </list>
+                  </item>
+                  <label>Preſented for Suffolke.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Thomas Young</hi> of <hi>Stowmarket.</hi>
+                        </item>
+                        <item>Maſter <hi>John Phillips</hi> of <hi>Wrentham.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Southampt.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>John Langley,</hi> Rector of <hi>Weſtudeley.</hi>
+                        </item>
+                        <item>
+                           <hi>Chriſtopher Tiſdale,</hi> Rector of <hi>Uphusborne.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Surrey.</label>
+                  <item>
+                     <list>
+                        <item>Doctor <hi>Staunton</hi> of <hi>Kingeſton.</hi>
+                        </item>
+                        <item>Doctor <hi>Featley</hi> of <hi>Lambeth.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Salop.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Edward Corber</hi> of <hi>Oxford,</hi> M. of Arts.</item>
+                        <item>Maſter <hi>Samuel</hi> Hilderſham.</item>
+                     </list>
+                  </item>
+                  <label>Preſented for Stafford.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Francis Cook</hi> of <hi>Yoxhall, Clerk.</hi>
+                        </item>
+                        <item>
+                           <hi>John Lightfoot</hi> of <hi>Aſhley, Clerk.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Suſſex.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Benjamin Pickering.</hi>
+                        </item>
+                        <item>Maſter <hi>Henry Nye.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Wigorn.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Arth. Salway.</hi>
+                        </item>
+                        <item>Doctor <hi>Prideaux,</hi> Biſhop of <hi>Worceſter.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <label>Preſented for Weſtmerla.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Henry Hall,</hi> B. D.</item>
+                        <item>Maſter <hi>Henry Hutton,</hi> maſter of Arts.</item>
+                     </list>
+                  </item>
+                  <label>Preſented for Wiltſhire.</label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Henry Seuder</hi> Rector of <hi>Collingborne,</hi> B. D.</item>
+                        <item>
+                           <hi>Thomas Baily,</hi> Rector of <hi>Manningford,</hi> B. D.</item>
+                     </list>
+                  </item>
+                  <label>Preſented for Warwick.</label>
+                  <item>
+                     <list>
+                        <item>Maſter <hi>Burgeſſe,</hi> Parſon of <hi>Sutton Ulfield.</hi>
+                        </item>
+                        <item>Maſter <hi>Richard Vines,</hi> Parſon of <hi>Weddington</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <label>Angleſey.</label>
+                  <item>MAſter <hi>Richard Buckley,</hi> B.D.</item>
+                  <label>Brecknoc.</label>
+                  <item>Doctor <hi>Temple</hi> of <hi>Batterſey.</hi>
+                  </item>
+                  <label>Cardigan.</label>
+                  <item>Maſter <hi>Shute</hi> of <hi>Lumberſtreet.</hi>
+                  </item>
+                  <label>Carmarthen</label>
+                  <item>Maſter <hi>Nicholſon.</hi>
+                  </item>
+                  <label>Carnarvan.</label>
+                  <item>Maſter <hi>Cattarne.</hi>
+                  </item>
+                  <label>Denbigh.</label>
+                  <item>
+                     <hi>Ric. Lloide,</hi> D. D.</item>
+                  <label>Flnt.</label>
+                  <item>Doctor <hi>Chriſtopher Paſhley.</hi>
+                  </item>
+                  <label>Glamorgan.</label>
+                  <item>
+                     <hi>Henry Tozer,</hi> B. D. and ſenior Fellow of <hi>Ex. Colledge.</hi>
+                  </item>
+                  <label>Merioneth.</label>
+                  <item>Maſter <hi>William Spurſtoe.</hi>
+                  </item>
+                  <label>Pembroke.</label>
+                  <item>Maſter <hi>Francis Channell.</hi>
+                  </item>
+                  <label>Montgome.</label>
+                  <item>
+                     <hi>Meedw. Ellis</hi> Rector of <hi>Guilsfeild.</hi>
+                  </item>
+                  <label>Radnor.</label>
+                  <item>
+                     <hi>Doctor Hacket.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <list>
+                  <label>Iſles of <hi>Garnſey</hi> and <hi>Jerſey.</hi>
+                  </label>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Samuel de la Place.</hi>
+                        </item>
+                        <item>
+                           <hi>Jo. de la March.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at <hi>London</hi> for <hi>G.W.</hi> 1642.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
